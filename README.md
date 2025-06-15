@@ -4,7 +4,7 @@ A visually accurate **Amazon homepage clone** built using only **HTML** and **CS
 
 ## 🔗 Live Preview
 
-[Click here to view the project](https://your-username.github.io/amazon-clone-html-css/)
+[Click here to view the project](http://127.0.0.1:5500/amazon.html)
 
 ## 📁 Project Structure
 amazon-clone-html-css/
